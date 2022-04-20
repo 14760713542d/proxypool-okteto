@@ -81,6 +81,11 @@
   options:
     url: https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/trojan.txt
 
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/config
+
+
 # 某个网站抓取
 - type: web-freessrxyz
   options:
