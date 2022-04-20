@@ -1,4 +1,4 @@
-name: proxypool
+name: proxy
 services:
   proxypool:
     public: true
