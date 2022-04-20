@@ -88,10 +88,6 @@
  - type: clash
   options:
     url: https://us-proxypool.herokuapp.com/clash/config
-    
-  - type: clash
-  options:
-    url: https://hk.xhrzg2017.xyz/clash/config 
 
 
 # 某个网站抓取
